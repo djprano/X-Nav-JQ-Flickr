@@ -1,0 +1,41 @@
+body{
+float        : bottom;
+position     : relative;
+}
+.fotos{
+width        : 500px;
+height       : 500px;
+border       : 1px solid;
+border-radius: 5px;
+box-shadow   : 8px 8px 8px rgba(0,0,0,0.4);
+margin       : 0 auto;
+
+}
+.etiqueta{
+width        : 400px;
+height       : 25px;
+font-size    : 20px;
+float        : left;
+}
+.entrada{
+padding-top  : 20px;
+width        : 500px;
+height       : 200px;
+margin       : 0 auto;
+position     : relative;
+}
+.boton{
+border       : 1px solid;
+width        : 80px;
+height       : 25px;
+text-align   : center;
+line-height  : 25px;
+float        : left;
+margin-left  : 14px;
+border-color : #717171;
+background   : #A1A1A1;
+cursor       : 	pointer;
+}
+.press{
+box-shadow   : inset 0px 0px 20px rgba(0,0,0,0.8);
+}
